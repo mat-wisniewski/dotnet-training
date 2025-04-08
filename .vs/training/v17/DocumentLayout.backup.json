@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E207F2F8-EED2-4108-B0FB-131A7DF3984F}|training.QuoteFinder\\training.QuoteFinder.csproj|c:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.quotefinder\\userinteraction\\userconsoleinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207F2F8-EED2-4108-B0FB-131A7DF3984F}|training.QuoteFinder\\training.QuoteFinder.csproj|solutionrelative:training.quotefinder\\userinteraction\\userconsoleinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E207F2F8-EED2-4108-B0FB-131A7DF3984F}|training.QuoteFinder\\training.QuoteFinder.csproj|c:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.quotefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E207F2F8-EED2-4108-B0FB-131A7DF3984F}|training.QuoteFinder\\training.QuoteFinder.csproj|solutionrelative:training.quotefinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 17,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserConsoleInteractor.cs",
+              "DocumentMoniker": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.QuoteFinder\\UserInteraction\\UserConsoleInteractor.cs",
+              "RelativeDocumentMoniker": "training.QuoteFinder\\UserInteraction\\UserConsoleInteractor.cs",
+              "ToolTip": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.QuoteFinder\\UserInteraction\\UserConsoleInteractor.cs",
+              "RelativeToolTip": "training.QuoteFinder\\UserInteraction\\UserConsoleInteractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:35:48.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.QuoteFinder\\Program.cs",
+              "RelativeDocumentMoniker": "training.QuoteFinder\\Program.cs",
+              "ToolTip": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.QuoteFinder\\Program.cs",
+              "RelativeToolTip": "training.QuoteFinder\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:18:52.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
