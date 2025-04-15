@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "training.QuoteFinder", "training.QuoteFinder\training.QuoteFinder.csproj", "{E207F2F8-EED2-4108-B0FB-131A7DF3984F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "training.TicketsDataAggregator", "training.TicketsDataAggregator\training.TicketsDataAggregator.csproj", "{B3D920B5-5719-4977-B08B-F53215C5B45E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E207F2F8-EED2-4108-B0FB-131A7DF3984F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E207F2F8-EED2-4108-B0FB-131A7DF3984F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E207F2F8-EED2-4108-B0FB-131A7DF3984F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D920B5-5719-4977-B08B-F53215C5B45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D920B5-5719-4977-B08B-F53215C5B45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D920B5-5719-4977-B08B-F53215C5B45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D920B5-5719-4977-B08B-F53215C5B45E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

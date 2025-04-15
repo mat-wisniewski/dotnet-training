@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D920B5-5719-4977-B08B-F53215C5B45E}|training.TicketsDataAggregator\\training.TicketsDataAggregator.csproj|c:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.ticketsdataaggregator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D920B5-5719-4977-B08B-F53215C5B45E}|training.TicketsDataAggregator\\training.TicketsDataAggregator.csproj|solutionrelative:training.ticketsdataaggregator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3D920B5-5719-4977-B08B-F53215C5B45E}|training.TicketsDataAggregator\\training.TicketsDataAggregator.csproj|c:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.ticketsdataaggregator\\extensions\\webaddressextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D920B5-5719-4977-B08B-F53215C5B45E}|training.TicketsDataAggregator\\training.TicketsDataAggregator.csproj|solutionrelative:training.ticketsdataaggregator\\extensions\\webaddressextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 17,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebAddressExtensions.cs",
+              "DocumentMoniker": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.TicketsDataAggregator\\Extensions\\WebAddressExtensions.cs",
+              "RelativeDocumentMoniker": "training.TicketsDataAggregator\\Extensions\\WebAddressExtensions.cs",
+              "ToolTip": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.TicketsDataAggregator\\Extensions\\WebAddressExtensions.cs",
+              "RelativeToolTip": "training.TicketsDataAggregator\\Extensions\\WebAddressExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:58:55.262Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -30,6 +52,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.TicketsDataAggregator\\Program.cs",
+              "RelativeDocumentMoniker": "training.TicketsDataAggregator\\Program.cs",
+              "ToolTip": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.TicketsDataAggregator\\Program.cs",
+              "RelativeToolTip": "training.TicketsDataAggregator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T13:18:40.571Z",
+              "EditorCaption": ""
             }
           ]
         }
