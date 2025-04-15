@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3D920B5-5719-4977-B08B-F53215C5B45E}|training.TicketsDataAggregator\\training.TicketsDataAggregator.csproj|c:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.ticketsdataaggregator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3D920B5-5719-4977-B08B-F53215C5B45E}|training.TicketsDataAggregator\\training.TicketsDataAggregator.csproj|solutionrelative:training.ticketsdataaggregator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FD68194-0F75-498D-8404-94920BB87B25}|training.DiceRollGame\\training.DiceRollGame.csproj|c:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.dicerollgame\\app\\dicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD68194-0F75-498D-8404-94920BB87B25}|training.DiceRollGame\\training.DiceRollGame.csproj|solutionrelative:training.dicerollgame\\app\\dicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3D920B5-5719-4977-B08B-F53215C5B45E}|training.TicketsDataAggregator\\training.TicketsDataAggregator.csproj|c:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.ticketsdataaggregator\\extensions\\webaddressextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3D920B5-5719-4977-B08B-F53215C5B45E}|training.TicketsDataAggregator\\training.TicketsDataAggregator.csproj|solutionrelative:training.ticketsdataaggregator\\extensions\\webaddressextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FD68194-0F75-498D-8404-94920BB87B25}|training.DiceRollGame\\training.DiceRollGame.csproj|c:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.dicerollgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD68194-0F75-498D-8404-94920BB87B25}|training.DiceRollGame\\training.DiceRollGame.csproj|solutionrelative:training.dicerollgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 17,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebAddressExtensions.cs",
-              "DocumentMoniker": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.TicketsDataAggregator\\Extensions\\WebAddressExtensions.cs",
-              "RelativeDocumentMoniker": "training.TicketsDataAggregator\\Extensions\\WebAddressExtensions.cs",
-              "ToolTip": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.TicketsDataAggregator\\Extensions\\WebAddressExtensions.cs",
-              "RelativeToolTip": "training.TicketsDataAggregator\\Extensions\\WebAddressExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DiceGame.cs",
+              "DocumentMoniker": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.DiceRollGame\\App\\DiceGame.cs",
+              "RelativeDocumentMoniker": "training.DiceRollGame\\App\\DiceGame.cs",
+              "ToolTip": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.DiceRollGame\\App\\DiceGame.cs",
+              "RelativeToolTip": "training.DiceRollGame\\App\\DiceGame.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBAwBQAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:58:55.262Z",
+              "WhenOpened": "2025-04-15T16:23:31.165Z",
               "EditorCaption": ""
             },
             {
@@ -55,15 +55,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.TicketsDataAggregator\\Program.cs",
-              "RelativeDocumentMoniker": "training.TicketsDataAggregator\\Program.cs",
-              "ToolTip": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.TicketsDataAggregator\\Program.cs",
-              "RelativeToolTip": "training.TicketsDataAggregator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.DiceRollGame\\Program.cs",
+              "RelativeDocumentMoniker": "training.DiceRollGame\\Program.cs",
+              "ToolTip": "C:\\mat-wisniewski\\dotnet-training\\dotnet-basic\\training\\training.DiceRollGame\\Program.cs",
+              "RelativeToolTip": "training.DiceRollGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T13:18:40.571Z",
+              "WhenOpened": "2025-04-15T15:56:31.854Z",
               "EditorCaption": ""
             }
           ]
