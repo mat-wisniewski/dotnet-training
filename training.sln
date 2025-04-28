@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "training.TicketsDataAggrega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "training.DiceRollGame", "training.DiceRollGame\training.DiceRollGame.csproj", "{1FD68194-0F75-498D-8404-94920BB87B25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "training.DiceRollGame.Tests", "training.DiceRollGame.Tests\training.DiceRollGame.Tests.csproj", "{D795C5EB-4E1E-4779-81B6-305579AA71DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1FD68194-0F75-498D-8404-94920BB87B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FD68194-0F75-498D-8404-94920BB87B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FD68194-0F75-498D-8404-94920BB87B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D795C5EB-4E1E-4779-81B6-305579AA71DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D795C5EB-4E1E-4779-81B6-305579AA71DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D795C5EB-4E1E-4779-81B6-305579AA71DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D795C5EB-4E1E-4779-81B6-305579AA71DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

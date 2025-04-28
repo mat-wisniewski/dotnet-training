@@ -1,6 +1,6 @@
 ﻿namespace training.DiceRollGame.App
 {
-  public class Dice(Random random)
+  public class Dice(Random random) : IDice
   {
     private readonly Random _random = random;
     private const int DMax = 6;

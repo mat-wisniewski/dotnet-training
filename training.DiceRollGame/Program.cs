@@ -9,7 +9,7 @@ namespace training.DiceRollGame
     static void Main(string[] args)
     {
       var random = new Random();
-      var dice = new Dice(random);
+      IDice dice = new Dice(random);
       IUserInteractor userInteractor = new ConsoleUserInteractor();
 
       var diceGame = new DiceGame(dice, userInteractor);
